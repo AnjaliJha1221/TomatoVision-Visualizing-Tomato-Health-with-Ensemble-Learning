@@ -1,7 +1,7 @@
                                       AuTOMATO : Robotic Eyes on Tomato Health through Ensemble Learning
 
 Dataset Overview:
-Our dataset, sourced from Kaggle, consists of images captured within a greenhouse in Ecuador, specifically targeting tomato plants for automated detection of leaf conditions. The images were acquired using an autonomous robot equipped with a Raspberry Pi and a high-resolution 16-bit camera. The dataset comprises four labels:
+This dataset, sourced from Kaggle, consists of images captured within a greenhouse in Ecuador, specifically targeting tomato plants for automated detection of leaf conditions. The images were acquired using an autonomous robot equipped with a Raspberry Pi and a high-resolution 16-bit camera. The dataset comprises four labels:
 
 Dried Leaves :  Images of tomato leaves showing signs of desiccation and dryness
 Healthy Leaves : Images depicting normal, unaffected tomato leaves.
@@ -10,7 +10,7 @@ Leaves with Yellow Stains: Images specifically highlighting tomato leaves with y
 
 
 Solution Implemented:
-We developed an ensemble model for tomato leaf illness detection, leveraging the strengths of multiple base models. The ensemble model achieved an impressive 98% test accuracy. We utilized the averaging method during model training.
+Developed an ensemble model for tomato leaf illness detection, leveraging the strengths of multiple base models. The ensemble model achieved an impressive 98% test accuracy. For this, utilized the averaging method during model training.
 
 Base Models and Test Accuracies:
 CNN: 94.99%
