@@ -26,10 +26,21 @@ The ensemble model demonstrated robust performance in detecting various tomato l
 ![Curve](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/Train%26val_curve.png "Curve")
 
 Result
+
+
 Performance Metrics
+
 ![Performance Metrics](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/performance%20metrics.png "Performance Metrics")
 
+
+
 Confusion Matrix
+
+
 ![CM](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/confusion%20matrix.png "CM")
+
+
 Prediction Images
+
+
 ![Predictions](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/predictions.png "Data")
