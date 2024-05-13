@@ -11,6 +11,7 @@ Leaves with Yellow Stains: Images specifically highlighting tomato leaves with y
 
 Solution Implemented:
 Developed an ensemble model for tomato leaf illness detection, leveraging the strengths of multiple base models. The ensemble model achieved an impressive 98% test accuracy. For this, utilized the averaging method during model training.
+![Methodology](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/Screenshot%202024-05-13%20103922.png "Methodology")
 
 
 Base Models and Test Accuracies:
