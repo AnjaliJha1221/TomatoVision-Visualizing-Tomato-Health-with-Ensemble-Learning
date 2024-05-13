@@ -7,6 +7,7 @@ Dried Leaves :  Images of tomato leaves showing signs of desiccation and dryness
 Healthy Leaves : Images depicting normal, unaffected tomato leaves.
 Leaves with Stains :  Images of tomato leaves exhibiting various types of stains or discolorations.
 Leaves with Yellow Stains: Images specifically highlighting tomato leaves with yellow stains, indicative of certain illnesses or conditions.
+![Data](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/leaves.png "Data")
 
 
 Solution Implemented:
@@ -22,3 +23,13 @@ VGG: 97.00%
 
 Conclusion:
 The ensemble model demonstrated robust performance in detecting various tomato leaf conditions with a high accuracy of 98%.
+![Curve](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/Train%26val_curve.png "Curve")
+
+Result
+Performance Metrics
+![Performance Metrics](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/performance%20metrics.png "Performance Metrics")
+
+Confusion Matrix
+![CM](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/confusion%20matrix.png "CM")
+Prediction Images
+![Predictions](https://github.com/AnjaliJha1221/AuTOMATO---Tomato-Leaf-Illness-Detection/blob/main/predictions.png "Data")
