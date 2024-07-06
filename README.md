@@ -1,4 +1,4 @@
-                                      TomatoVision : Robotic Eyes on Tomato Health through Ensemble Learning
+                                      TomatoVision: Visualizing Tomato Health with Ensemble Learning
 
 Dataset Overview:
 This dataset, sourced from Kaggle, consists of images captured within a greenhouse in Ecuador, specifically targeting tomato plants for automated detection of leaf conditions. The images were acquired using an autonomous robot equipped with a Raspberry Pi and a high-resolution 16-bit camera. The dataset comprises four labels:
